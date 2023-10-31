@@ -6,13 +6,21 @@ font-family: Arial, Helvetica, sans-serif;
  color: cyan;
 
 }
-.kyvh p{
+.kyvh{
   padding-top: 30px;
   padding-bottom: 30px;
-  background-image: url(background.jpg);
+  background-image: url(https://picsum.photos/200/300);
+  height:25px;
   
   
   
+}
+.kyvh p{
+  background-color: gray;
+  background-size: 12px;
+  margin-inline: 240px;
+  font-style: sans-serif;
+  border-radius: 15%;
 }
 *{
   margin: 0;
