@@ -1,0 +1,19 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.hedder img{
+  height: 60px;
+  width: 60px;
+  float: left;
+}
+.hedder{
+  text-align: center;
+  background-color: rgb(46, 67, 116);
+  color: lightcyan;
+}
+.hedder h2{
+  padding-top: 30px;
+  padding-bottom: 5px;
+  text-shadow: lightblue;
+}
